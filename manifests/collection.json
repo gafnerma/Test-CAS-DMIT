@@ -1,0 +1,13 @@
+{
+  "id" : "https://gafnerma.github.io/Test CAS DMIT/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in gafnerma/Test-CAS-DMIT project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://gafnerma.github.io/Test CAS DMIT/manifests/digital.library.unt.edu.json",
+    "label" : "[UNT Grad Block Party booth walk]"
+  } ]
+}
