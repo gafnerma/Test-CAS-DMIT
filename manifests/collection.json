@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://gafnerma.github.io/Test CAS DMIT/manifests/testcas.json",
     "label" : "[UNT Grad Block Party booth walk]"
+  }, {
+    "@type" : "iiif:Image",
+    "@id" : "https://gafnerma.github.io/Test CAS DMIT/manifests/test3.json",
+    "label" : null
   } ]
 }
