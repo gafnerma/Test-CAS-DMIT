@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://gafnerma.github.io/Test CAS DMIT/manifests/digital.library.unt.edu.json",
     "label" : "[UNT Grad Block Party booth walk]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://gafnerma.github.io/Test CAS DMIT/manifests/testcas.json",
+    "label" : "[UNT Grad Block Party booth walk]"
   } ]
 }
