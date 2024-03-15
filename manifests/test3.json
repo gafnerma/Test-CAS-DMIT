@@ -1,0 +1,27 @@
+{
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "@id" : "https://gafnerma.github.io/Test CAS DMIT/manifests/test3.json",
+  "@type" : "iiif:Image",
+  "protocol" : "http://iiif.io/api/image",
+  "width" : 1500,
+  "height" : 1000,
+  "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+    "formats" : [ "jpg", "png", "gif" ],
+    "maxArea" : 52428800,
+    "qualities" : [ "default", "gray", "bitonal", "color" ],
+    "supports" : [ "baseUriRedirect", "canonicalLinkHeader", "jsonldMediaType", "mirroring", "profileLinkHeader", "regionByPct", "regionByPx", "regionSquare", "rotationArbitrary", "rotationBy90s", "sizeAboveFull", "sizeByConfinedWh", "sizeByDistortedWh", "sizeByW", "sizeByH", "sizeByPct", "sizeByWh" ]
+  } ],
+  "sizes" : [ {
+    "@type" : "iiif:Size",
+    "width" : 1500,
+    "height" : 1000
+  }, {
+    "@type" : "iiif:Size",
+    "width" : 120,
+    "height" : 80
+  }, {
+    "@type" : "iiif:Size",
+    "width" : 700,
+    "height" : 467
+  } ]
+}
