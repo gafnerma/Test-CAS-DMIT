@@ -1,0 +1,153 @@
+{
+  "@id" : "https://gafnerma.github.io/Test CAS DMIT/manifests/digital.library.unt.edu.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@type" : "sc:Manifest",
+  "label" : "[UNT Grad Block Party booth walk]",
+  "description" : "Photograph of a walkway with booths lining the side and crowds of people gathered in front of them. Across the way another booth, along with some tables and chairs, is also set up.",
+  "metadata" : [ {
+    "label" : "title.officialtitle",
+    "value" : "[UNT Grad Block Party booth walk]"
+  }, {
+    "label" : "title.seriestitle",
+    "value" : "4149: UNT Block Party, 2017"
+  }, {
+    "label" : "creator",
+    "value" : "Clark, Junebug"
+  }, {
+    "label" : "date",
+    "value" : "2017-05-12"
+  }, {
+    "label" : "language",
+    "value" : "nol"
+  }, {
+    "label" : "description.content",
+    "value" : "Photograph of a walkway with booths lining the side and crowds of people gathered in front of them. Across the way another booth, along with some tables and chairs, is also set up."
+  }, {
+    "label" : "description.physical",
+    "value" : "1 photograph : digital, col."
+  }, {
+    "label" : "subject.LCSH",
+    "value" : "College campuses -- Texas -- Denton -- Photographs."
+  }, {
+    "label" : "subject.LCSH",
+    "value" : "University of North Texas -- Photographs."
+  }, {
+    "label" : "subject.UNTL-BS",
+    "value" : "Education - Colleges and Universities - University of North Texas"
+  }, {
+    "label" : "subject.UNTL-BS",
+    "value" : "People - Individuals"
+  }, {
+    "label" : "subject.UNTL-BS",
+    "value" : "Education - Events"
+  }, {
+    "label" : "subject.UNTL-BS",
+    "value" : "Education - Commencement"
+  }, {
+    "label" : "subject.KWD",
+    "value" : "UNT campus"
+  }, {
+    "label" : "subject.KWD",
+    "value" : "block parties"
+  }, {
+    "label" : "subject.KWD",
+    "value" : "graduates"
+  }, {
+    "label" : "primarySource",
+    "value" : "1"
+  }, {
+    "label" : "coverage.placeName",
+    "value" : "United States - Texas - Denton County - Denton"
+  }, {
+    "label" : "coverage.placePoint",
+    "value" : "north=33.209788; east=-97.147776;"
+  }, {
+    "label" : "coverage.timePeriod",
+    "value" : "mod-tim"
+  }, {
+    "label" : "coverage.date",
+    "value" : "2017-05-12"
+  }, {
+    "label" : "collection",
+    "value" : "UNTPH"
+  }, {
+    "label" : "collection",
+    "value" : "UNTPC"
+  }, {
+    "label" : "institution",
+    "value" : "UNTA"
+  }, {
+    "label" : "rights",
+    "value" : "Reproduction and publication of materials in this collection are subject to the policies of the UNT Special Collections department. Copyright restrictions may apply."
+  }, {
+    "label" : "resourceType",
+    "value" : "image_photo"
+  }, {
+    "label" : "format",
+    "value" : "image"
+  }, {
+    "label" : "identifier",
+    "value" : "4149-0113"
+  }, {
+    "label" : "note",
+    "value" : "The Graduation Block Party was held after the final commencement ceremony of Spring 2017 from 5-9 that evening. It was held all around the UNT Union and it was open to the entire community as well."
+  } ],
+  "thumbnail" : {
+    "@id" : "https://digital.library.unt.edu/ark:/67531/metadc1039131/thumbnail/",
+    "@type" : "dctypes:Image",
+    "width" : 120,
+    "height" : 80,
+    "format" : "image/jpeg"
+  },
+  "navDate" : "2017-05-12T00:00:00Z",
+  "seeAlso" : {
+    "@id" : "https://digital.library.unt.edu/ark:/67531/metadc1039131/metadata.untl.xml",
+    "format" : "text/xml",
+    "label" : "UNTL Descriptive Metadata"
+  },
+  "related" : {
+    "@id" : "https://digital.library.unt.edu/ark:/67531/metadc1039131/",
+    "format" : "text/html",
+    "label" : "HTML page for the resource"
+  },
+  "within" : [ "https://digital.library.unt.edu/explore/collections/UNTPH/top/", "https://digital.library.unt.edu/explore/collections/UNTPC/top/", "https://digital.library.unt.edu/explore/partners/UNTA/top/" ],
+  "logo" : "https://digital.library.unt.edu/media/assets/public/images/dl/iiif/logo.png",
+  "license" : "https://digital.library.unt.edu/terms-of-use/",
+  "attribution" : "UNT Libraries Special Collections - UNT Digital Library",
+  "sequences" : [ {
+    "@id" : "https://digital.library.unt.edu/ark:/67531/metadc1039131/m1/sequence/",
+    "@type" : "sc:Sequence",
+    "canvases" : [ {
+      "@id" : "https://digital.library.unt.edu/ark:/67531/metadc1039131/m1/1/canvas/",
+      "@type" : "sc:Canvas",
+      "label" : "Image 1",
+      "width" : 3000,
+      "height" : 2000,
+      "images" : [ {
+        "@id" : "https://digital.library.unt.edu/ark:/67531/metadc1039131/m1/1/image/",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digital.library.unt.edu/iiif/ark:/67531/metadc1039131/m1/1/full/max/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://digital.library.unt.edu/iiif/ark:/67531/metadc1039131/m1/1",
+            "@context" : "http://iiif.io/api/presentation/2/context.json",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 1500,
+          "height" : 1000
+        },
+        "on" : "https://digital.library.unt.edu/ark:/67531/metadc1039131/m1/1/canvas/"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digital.library.unt.edu/ark:/67531/metadc1039131/m1/1/thumbnail/",
+        "@type" : "dctypes:Image",
+        "width" : 120,
+        "height" : 80,
+        "format" : "image/jpeg"
+      }
+    } ]
+  } ]
+}
